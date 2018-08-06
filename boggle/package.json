@@ -1,0 +1,21 @@
+{
+  "name": "Boggle",
+  "version": "1.0.0",
+  "description": "Take home challenge for WITHIN. That's not introspective but the name of the company.",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.4",
+    "npm": "6.3.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "mrMustachos",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
