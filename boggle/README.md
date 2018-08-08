@@ -12,4 +12,4 @@ Let's start out by saying that I've never played boggle before so I had a ton of
 ## Install:
   - `npm install`
   - `npm start`
-  - Open [http://localhost:3000/] (http://localhost:3000/) in your browser.
+  - Open [localhost:3000/](http://localhost:3000/) in your browser.
